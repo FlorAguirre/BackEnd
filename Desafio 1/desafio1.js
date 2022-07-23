@@ -1,6 +1,6 @@
 //Desafio 1
 
-class Usuario {
+/* class Usuario {
     constructor(nombre, apellido, libros, mascotas){
     this. nombre = nombre;
     this.apellido = apellido;
@@ -51,4 +51,4 @@ usuarioP.getFullName();
 usuarioP.addMascotas('Tortuga');
 usuarioP.countMascotas();
 usuarioP.addBook({nombre: 'Dracula', Autor: 'Bram Stoker'});
-usuarioP.getBookNames();
+usuarioP.getBookNames(); */
